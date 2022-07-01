@@ -6,6 +6,9 @@ LOLStatsyy is a card stat for league of legends built with Python and :
 - halo
 - pillow
 
+Here's an example of a card stat with LOLStatsyy (Mine xd):
+![Tux, the Linux mascot](./LOLStatsyy-Sample.png)
+
 ```
 halo==0.0.31
 jsonpath_ng==1.5.3
