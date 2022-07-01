@@ -1,0 +1,50 @@
+{
+    "template": "LOLStatsyy-NYorDRGXrwq",
+    "modifications": [
+        {
+            "name": "Title",
+            "text": "It will Change",
+            "color": null,
+            "background": null
+        },
+        {
+            "name": "LOLSTATSYY",
+            "text": "LOLStatsyy",
+            "color": null,
+            "background": null
+        },
+        {
+            "name": "MAIN",
+            "text": "It will Change",
+            "color": null,
+            "background": null
+        },
+        {
+            "name": "WinRate",
+            "text": "Win Rate",
+            "color": null,
+            "background": null
+        },
+        {
+            "name": "Perc",
+            "text": "It will Change",
+            "color": null,
+            "background": null
+        },
+        {
+            "name": "Losses",
+            "text": "It will Change",
+            "color": null,
+            "background": null
+        },
+        {
+            "name": "Wins",
+            "text": "It will Change",
+            "color": null,
+            "background": null
+        }
+    ],
+    "webhook_url": null,
+    "transparent": false,
+    "metadata": null
+}
